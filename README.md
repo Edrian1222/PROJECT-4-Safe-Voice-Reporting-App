@@ -7,7 +7,8 @@ Technologies Used
 Java
 XML
 Android Studio
-Firebase/MySQL (if meron)
+Firebase/MySQL 
+
 Features
 User Reporting System
 Mobile-Friendly Interface
